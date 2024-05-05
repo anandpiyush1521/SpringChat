@@ -1,0 +1,8 @@
+com\messanger\chat\models\ChatMessage.class
+com\messanger\chat\config\WebSocketEventListener.class
+com\messanger\chat\models\ChatMessage$ChatMessageBuilder.class
+com\messanger\chat\config\WebSocketConfig.class
+com\messanger\chat\controller\ChatController.class
+com\messanger\chat\ChatApplication.class
+com\messanger\chat\models\MessageType.class
+com\messanger\chat\controller\HealthCheckController.class
