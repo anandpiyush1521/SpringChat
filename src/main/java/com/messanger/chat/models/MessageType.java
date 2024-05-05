@@ -1,7 +1,7 @@
 package com.messanger.chat.models;
 
 public enum MessageType {
-    CHAt,
+    CHAT,
     JOIN,
     LEAVE
 }
